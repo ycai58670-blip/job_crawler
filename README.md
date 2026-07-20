@@ -45,8 +45,11 @@ $env:LIEPIN_CK_ID="实际的ckId"
 
 
 3.在“名称”栏，即左侧栏找到“https://api-c.liepin.com/api/com.liepin.searchfront4c.pc-search-job”这个URL：
+
 LIEPIN_XSRF_TOKEN:“标头”拉至最下查看
+
 skId，fkId，ckId：从“负载”中passThroughForm查看
+
 Cookie：“标头”下查看
 
 ## 运行
