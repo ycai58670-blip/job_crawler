@@ -5,9 +5,13 @@
 ## 文件功能：
 
 scrape_jobs_to_excel.py：程序入口、抓取流程编排
+
 config.py：关键词、分页、认证、输出路径等配置
+
 liepin_api.py：HTTP 会话、请求参数和接口调用
+
 job_parser.py：职位字段解析和分页判断
+
 excel_export.py：数据去重及 Excel 导出
 
 ## 安装依赖
